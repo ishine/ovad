@@ -1,0 +1,8 @@
+noise_type: factory
+snr: -10 dB
+speech_1_start: 4.81
+speech_1_end: 14.55
+speech_2_start: 26.73
+speech_2_end: 35.74
+speech_3_start: 46.22
+speech_3_end: 55.77

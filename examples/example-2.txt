@@ -1,0 +1,8 @@
+noise_type: passing cars
+snr: -10 dB
+seg_1_start: 9.91
+seg_1_end: 19.76
+seg_2_start: 27.54
+seg_2_end: 34.84
+seg_3_start: 43.57
+seg_3_end: 52.59

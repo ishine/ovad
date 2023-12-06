@@ -1,0 +1,8 @@
+noise_type: rain
+snr: -10 dB
+seg_1_start: 3.98
+seg_1_end: 13.46
+seg_2_start: 21.75
+seg_2_end: 31.73
+seg_3_start: 46.44
+seg_3_end: 55.91
